@@ -16,6 +16,7 @@
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> Freedom-Tower Demo
+![game](https://raw.githubusercontent.com/AshkanPoyber/Freedom-Tower-HW/main/Freedom-Tower-Demo.jpg)
 
 
 
